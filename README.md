@@ -1,1 +1,3 @@
+This Power BI and Tableau dashboard presentation provides a comprehensive analysis of sales data, offering valuable insights into sales performance and customer behavior across different categories and payment methods. The dashboard highlights key metrics and comparisons, making it a powerful tool for strategic decision making.
+I encouraged to do this project from 3-days course on professional data analysis taken by Prof. Karim M. Rezaul. This 3-day course on professional data analysis tunicates fundamental concepts of power BI and Tableau and practical usage of various tools.
 # My-Visualization
